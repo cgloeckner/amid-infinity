@@ -8,6 +8,8 @@ Creating a character in **Amid Infinity** follows the same rules as ICME does.
 
 **Amid Infinity** can be played in an setting, but works great for Lovecraft's era of the 1920s. If this does not fit your game, feel free to modify or even skip the changes ahead.
 
+The options below are kept free from mechanics by design. Make them fit your style or even go full narrative with them.
+
 ## Experience
 
 All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXPERIENCE. An EXPERIENCE describes a detail from your past and yields a benefit.
@@ -15,20 +17,22 @@ All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXP
 **D8 EXPERIENCES** *(Pick or roll once)*
 |	 |Tag				|Description|
 |----|---				|---|
-| 1. | RICH 			| Pick an additional STARTER LOOT. |
-| 2. | INSIGHT 			| Roll EASY performing rituals. |
-| 3. | VIOLENCE 		| Roll EASY SANITY when facing physical violence. |
-| 4. | FAITHFUL 		| Roll EASY SANITY when facing the supernatural. |
-| 5. | LUCK 			| Flip a coin when in danger of losing your luck. |
-| 6. | HANDICAP 		| A permanent issue disables you. Grant +2 on 1 STAT to balance it out. |
-| 7. | ALL HOPE IS GONE | Roll EASY SANITY when all seems lost. |
-| 8. | LOSS 			| Roll EASY SANITY when somebody else is in danger. |
+| 1. | RICH 			| Money is not an issue at all. |
+| 2. | INSIGHT 			| You have seen things nobody is meant to see. |
+| 3. | VIOLENCE 		| Violence has hardened you. |
+| 4. | FAITHFUL 		| Your faith in the good helps you to continue. |
+| 5. | LUCK 			| Luck is on your side! |
+| 6. | HANDICAP 		| A permanent issue disables you but makes you better somehow. |
+| 7. | ALL HOPE IS GONE | Isolation and despair has hardened you. |
+| 8. | LOSS 			| The loss of beloved people made you stronger. |
+
+**Example mechanics:**
+- Characters with INSIGHT may roll EASY on rituals they performed earlier.
+- A HANDICAPPED character may receive additional +2 on DEX but cannot tell the difference between blue and green.
 
 ## Profession
 
 Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in which you excell.
-
-> ***Roll EASY if applicable.***
 
 The table below is a starting point that outlines rough ideas.
 
@@ -42,6 +46,10 @@ The table below is a starting point that outlines rough ideas.
 | 5. | SLEUTH 			| Police officer, private eye, intelligence officer or the like |
 | 6. | MEDICINE 		| Doctor, therapist, nurse, pharmacist, veterinary or similar |
 
+**Example mechanics:**
+- Distract guards may be EASY for a THEATER ACTOR.
+- Sneaking on a suspect may be EASY for a PRIVATE EYE.
+
 ## Starter Loot
 
 Since the variety of characters is too vast, STARTER LOOT comes in categories and allow you build upon those ideas to fit your character concept.
@@ -49,14 +57,18 @@ Since the variety of characters is too vast, STARTER LOOT comes in categories an
 **D4 STARTER LOOT** *(Pick or roll once)*
 |	 |Category		|Example LOOT|
 |----|---			|---|
-| 1. | FIRST AID	| INT/WIS to heal with TOOL effort |
-| 2. | TOOL 		| Lock picks ... TODO ... or similar |
+| 1. | FIRST AID	| Be it badages, sedatives or anything else |
+| 2. | TOOL 		| Lock picks or similar |
 | 3. | WEAPON 		| Knife, brass knuckles or such |
 | 4. | GUN 			| Revolver, rifle or the like... but why? |
 
+**Example mechanics:**
+- FIRST AID heals TOOL effort after a successful INT/WIS roll.
+- A REVOLVER has 6 bullets. Reloading introduces a SPELL BURN timer.
+
 ## Common Loot
 
-COMMON LOOT also comes in categories rather explicit options
+COMMON LOOT also comes in categories rather explicit options.
 
 **D10 COMMON LOOT** *(Pick or roll up to four times)*
 |     |Category			|Ideas to build upon|
@@ -67,8 +79,12 @@ COMMON LOOT also comes in categories rather explicit options
 |  4. | LIGHT SOURCE 	| Flashlight, matches, lantern or else |
 |  5. | DOCUMENTATION 	| Notepad, folding camera, dictaphone or similar |
 |  6. | ORIENTATION 	| Compass, maps or such things |
-|  7. | STURDY CLOTHES 	| Jacket, overall or the like. DEF +1 |
+|  7. | STURDY CLOTHES 	| Jacket, overall or the like that grants some DEFENSE |
 |  8. | SURVIVAL KIT 	| Equipped for the wilderness |
 |  9. | WORK BAG 		| You have your stuff from work with you |
 | 10. | ... 			| ... |
+
+**Example mechanics:**
+- DRUGS may allow for EASY RECOVERY rolls.
+- LIGHT SOURCES may lower the TARGET in dark areas.
 
