@@ -57,9 +57,9 @@ Since the variety of characters is too vast, STARTER LOOT comes in categories an
 **D4 STARTER LOOT** *(Pick or roll once)*
 |	 |Category		|Example LOOT|
 |----|---			|---|
-| 1. | FIRST AID	| Be it badages, sedatives or anything else |
-| 2. | TOOL 		| Lock picks or similar |
-| 3. | WEAPON 		| Knife, brass knuckles or such |
+| 1. | FIRST AID	| Be it bandages, sedatives, antiseptic, antibiotic or similar |
+| 2. | TOOL 		| Lock picks, crowbar, fake ID, handcuffs or anything else |
+| 3. | WEAPON 		| Knife, brass knuckles, baton or something improvised? |
 | 4. | GUN 			| Revolver, rifle or the like... but why? |
 
 **Example mechanics:**
@@ -71,14 +71,14 @@ Since the variety of characters is too vast, STARTER LOOT comes in categories an
 **D8 COMMON LOOT** *(Pick or roll up to three times)*
 |     |Category			|Ideas to build upon|
 |-----|---				|---|
-|  1. | DRUGS 			| Cigaretts, alcohol, coffee in thermos or such |
-|  2. | HEIRLOOM 		| You never give it away! But who gave it to you? |
-|  3. | TOY 			| Marbles, playing cards or similar |
-|  4. | LIGHT SOURCE 	| Flashlight, matches, lantern or else |
+|  1. | DRUGS 			| Cigaretts, alcohol, coffee in thermos, opium pipe or such |
+|  2. | HEIRLOOM 		| Pocket watch, jewlery, pen, photography, instrument or the like |
+|  3. | TOY 			| Marbles, playing or tarot cards, teddy bear, music box or similar |
+|  4. | LIGHT SOURCE 	| Flashlight, matches, lantern or something else |
 |  5. | DOCUMENTATION 	| Notepad, folding camera, dictaphone or similar |
-|  6. | ORIENTATION 	| Compass, maps or such things |
-|  7. | STURDY CLOTHES 	| Jacket, overall or the like that grants some DEFENSE |
-|  8. | SURVIVAL KIT 	| Equipped for the wilderness |
+|  6. | ORIENTATION 	| Compass, maps, binocular, step counter or such things |
+|  7. | STURDY CLOTHES 	| Jacket, overall, fedora or the like that grants some DEFENSE |
+|  8. | SURVIVAL TOOL	| Flint and steel, rations, whistle, fishing rod or like that |
 
 **Example mechanics:**
 - DRUGS may allow for EASY RECOVERY rolls.
