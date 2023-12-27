@@ -88,3 +88,9 @@ COMMON LOOT also comes in categories rather explicit options.
 - DRUGS may allow for EASY RECOVERY rolls.
 - LIGHT SOURCES may lower the TARGET in dark areas.
 
+## Milestone Options
+
+Up to the GM's discretion, characters will gain MILESTONES, such as:
+- Gain a STAT or EFFORT point
+- Cure a WOUND or INSANITY (see Rule Modifications on [Sanity](03_rule_mods.md#Sanity))
+
