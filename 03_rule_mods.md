@@ -2,7 +2,7 @@
 
 ## Sanity
 
-Mind-shattering circumstances will test a character's mental stability.
+Mind-shattering circumstances will test a character's mental stability. Physical and mental damage will both count towards regular HP. Each HEART will symbolize the character's distance to his/her personal breaking point.
 
 - **Sanity check**
 	- Roll INT/WIS/CHA based on circumstances
