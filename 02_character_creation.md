@@ -14,17 +14,19 @@ The options below are kept free from mechanics by design. Make them fit your sty
 
 All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXPERIENCE. An EXPERIENCE describes a detail from your past and yields a benefit.
 
-**D8 EXPERIENCES** *(Pick or roll once)*
-|	 |Tag				|Description|
-|----|---				|---|
-| 1. | RICH 			| Money is not an issue at all. |
-| 2. | INSIGHT 			| You have seen things nobody is meant to see. |
-| 3. | VIOLENCE 		| Violence has hardened you. |
-| 4. | FAITHFUL 		| Your faith in the good helps you to continue. |
-| 5. | LUCK 			| Luck is on your side! |
-| 6. | HANDICAP 		| A permanent issue disables you but makes you better somehow. |
-| 7. | ALL HOPE IS GONE | Isolation and despair has hardened you. |
-| 8. | LOSS 			| The loss of beloved people made you stronger. |
+**D10 EXPERIENCES** *(Pick or roll once)*
+|	  |Tag				|Description|
+|-----|---				|---|
+|  1. | RICH 			| Money is not an issue at all. |
+|  2. | INSIGHT 			| You have seen things nobody is meant to see. |
+|  3. | VIOLENCE 		| Violence has hardened you. |
+|  4. | FAITHFUL 		| Your faith in the good helps you to continue. |
+|  5. | LUCK 			| Luck is on your side! |
+|  6. | HANDICAP 		| A permanent issue disables you but makes you better somehow. |
+|  7. | ALL HOPE IS GONE | Isolation and despair has hardened you. |
+|  8. | LOSS 			| The loss of beloved people made you stronger. |
+|  9. |	COMMITMENT		| You have dedicated yourself to job, sports, science, hobby or the like. |
+| 10. |	MULTILINGUAL	| You were raised by multilingual parents or have spent quite some time abroad. |
 
 **Example mechanics:**
 - Characters with INSIGHT may roll EASY on rituals they performed earlier.
@@ -32,9 +34,7 @@ All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXP
 
 ## Profession
 
-Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in which you excell.
-
-The table below is a starting point that outlines rough ideas.
+Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in which you excell. The table below is a starting point that outlines rough ideas.
 
 **D6 PROFESSIONS** *(Pick or roll once)*
 |	 |Category			|Example professions|
@@ -68,9 +68,7 @@ Since the variety of characters is too vast, STARTER LOOT comes in categories an
 
 ## Common Loot
 
-COMMON LOOT also comes in categories rather explicit options.
-
-**D10 COMMON LOOT** *(Pick or roll up to four times)*
+**D8 COMMON LOOT** *(Pick or roll up to three times)*
 |     |Category			|Ideas to build upon|
 |-----|---				|---|
 |  1. | DRUGS 			| Cigaretts, alcohol, coffee in thermos or such |
@@ -81,12 +79,14 @@ COMMON LOOT also comes in categories rather explicit options.
 |  6. | ORIENTATION 	| Compass, maps or such things |
 |  7. | STURDY CLOTHES 	| Jacket, overall or the like that grants some DEFENSE |
 |  8. | SURVIVAL KIT 	| Equipped for the wilderness |
-|  9. | WORK BAG 		| You have your stuff from work with you |
-| 10. | ... 			| ... |
 
 **Example mechanics:**
 - DRUGS may allow for EASY RECOVERY rolls.
 - LIGHT SOURCES may lower the TARGET in dark areas.
+
+## Backpack
+
+You carry quite a lot more than you have written in your inventory. Use your TURN to invent an ITEM. Write it down as a piece of LOOT for future use.
 
 ## Milestone Options
 
