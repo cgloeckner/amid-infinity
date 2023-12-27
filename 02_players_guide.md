@@ -15,14 +15,16 @@ Creating a character in **Amid Infinity** follows the same rules as ICME does.
 All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXPERIENCE. An EXPERIENCE describes a detail from your past and yields a benefit.
 
 **D8 EXPERIENCES** *(Pick or roll once)*
-1. **RICH** Pick an additional STARTER LOOT.
-2. **INSIGHT** Roll EASY performing rituals.
-3. **VIOLENCE** Roll EASY SANITY when facing physical violence.
-4. **FAITHFUL** Roll EASY SANITY when facing the supernatural.
-5. **LUCK** Flip a coin when in danger of losing your luck.
-6. **HANDICAP** A permanent issue disables you. Grant +2 on 1 STAT to balance it out.
-7. **ALL HOPE IS GONE** Roll EASY SANITY when all seems lost.
-8. **LOSS**  Roll EASY SANITY when somebody else is in danger.
+|Result|Tag|Description|
+|---|---|---|
+| 1. | RICH | Pick an additional STARTER LOOT. |
+| 2. | INSIGHT | Roll EASY performing rituals. |
+| 3. | VIOLENCE | Roll EASY SANITY when facing physical violence. |
+| 4. | FAITHFUL | Roll EASY SANITY when facing the supernatural. |
+| 5. | LUCK | Flip a coin when in danger of losing your luck. |
+| 6. | HANDICAP | A permanent issue disables you. Grant +2 on 1 STAT to balance it out. |
+| 7. | ALL HOPE IS GONE | Roll EASY SANITY when all seems lost. |
+| 8. | LOSS | Roll EASY SANITY when somebody else is in danger. |
 
 ## Profession
 
@@ -33,12 +35,14 @@ Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in
 The table below is a starting point that outlines rough ideas.
 
 **D6 PROFESSIONS** *(Pick or roll once)*
-1. **ACADEMIC** Tutor, student, scientist, librarian, assistent, ...
-2. **ARTIST** Author, musician, painter, actor, photographer, magician or the like
-3. **PUBLIC FIGURE** Rich person, journalist, priest, lawyer, teacher, salesman, ...
-4. **CRAFTSMAN** Electricians, plumbers, mechanics, janitor, tailor, ...
-5. **SLEUTH** Police officer, private eye, intelligence officer or the like
-6. **MEDICINE** Doctor, therapist, nurse, pharmacist, veterinary or similar
+|Result|Category|Example professions|
+|---|---|---|
+| 1. | ACADEMIC | Tutor, student, scientist, librarian, assistent, ... |
+| 2. | ARTIST | Author, musician, painter, actor, photographer, magician or the like |
+| 3. | PUBLIC FIGURE | Rich person, journalist, priest, lawyer, teacher, salesman, ... |
+| 4. | CRAFTSMAN | Electricians, plumbers, mechanics, janitor, tailor, ... |
+| 5. | SLEUTH | Police officer, private eye, intelligence officer or the like |
+| 6. | MEDICINE | Doctor, therapist, nurse, pharmacist, veterinary or similar |
 
 ## Starter Loot
 
