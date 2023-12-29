@@ -14,7 +14,7 @@ The options below are kept free from mechanics by design. Make them fit your sty
 
 All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXPERIENCE. An EXPERIENCE describes a detail from your past and yields a benefit.
 
-**D10 EXPERIENCES** *(Pick or roll once)*
+**D10 EXPERIENCES** _(Pick or roll once)_
 |	  |Tag				|Description|
 |-----|---				|---|
 |  1. | RICH 			| Money is not an issue at all. |
@@ -36,7 +36,7 @@ All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXP
 
 Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in which you excell. The table below is a starting point that outlines rough ideas.
 
-**D6 PROFESSIONS** *(Pick or roll once)*
+**D6 PROFESSIONS** _(Pick or roll once)_
 |	 |Category			|Example professions|
 |----|---				|---|
 | 1. | ACADEMIC 		| Tutor, student, scientist, librarian, assistent, ... |
@@ -54,7 +54,7 @@ Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in
 
 Since the variety of characters is too vast, STARTER LOOT comes in categories and allow you build upon those ideas to fit your character concept.
 
-**D4 STARTER LOOT** *(Pick or roll once)*
+**D4 STARTER LOOT** _(Pick or roll once)_
 |	 |Category		|Example LOOT|
 |----|---			|---|
 | 1. | FIRST AID	| Be it bandages, sedatives, antiseptic, antibiotic or similar |
@@ -68,7 +68,7 @@ Since the variety of characters is too vast, STARTER LOOT comes in categories an
 
 ## Common Loot
 
-**D8 COMMON LOOT** *(Pick or roll up to three times)*
+**D8 COMMON LOOT** _(Pick or roll up to three times)_
 |     |Category			|Ideas to build upon|
 |-----|---				|---|
 |  1. | DRUGS 			| Cigaretts, alcohol, coffee in thermos, opium pipe or such |
@@ -93,4 +93,3 @@ You carry quite a lot more than you have written in your inventory. Use your TUR
 Up to the GM's discretion, characters will gain MILESTONES, such as:
 - Gain a STAT or EFFORT point
 - Cure a WOUND or INSANITY (see Rule Modifications on [Sanity](03_rule_mods.md#Sanity))
-
