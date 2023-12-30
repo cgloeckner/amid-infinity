@@ -46,13 +46,8 @@ Mind-shattering circumstances will test a character's mental stability. Physical
 
 ## Luck
 
-Everybody starts a session with a HERO COIN that symbolizes LUCK.
-
-- **Putting luck to the test**
-	- flip coin, announce head or tail
-	- coin remains at player
-- **No wasted luck**
-	- coins are only consumed if a failed attempt succeeds with it
+- 50:50 roll, announce low/high
+- can be pushed to success with a HERO COIN
 
 ## Mythos Spells
 
