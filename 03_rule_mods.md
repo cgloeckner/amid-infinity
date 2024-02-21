@@ -44,11 +44,6 @@ Mind-shattering circumstances will test a character's mental stability. Physical
 | 7. | AMNESIA				| protects by moving certain memories to the subconsciousness |
 | 8. | HUBRIS				| Exaggerated self-confidence, feeling of being above moral or mortality |
 
-## Luck
-
-- 50:50 roll, announce low/high
-- can be pushed to success with a HERO COIN
-
 ## Mythos Spells
 
 Sinister rituals can be performed by those who are willed to plunge into the darkness.
