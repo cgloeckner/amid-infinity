@@ -2,7 +2,7 @@
 
 Creating a horror scenario can sound intimidating, but can be quite some fun!
 
-The following aspects are not meant to be hard ruls but to fuel your mind and to seed your game.
+The following aspects are not meant to be hard rules but to fuel your mind and to seed your game.
 
 ## Hook
 
@@ -29,7 +29,7 @@ about to be discovered, nobody with the right mind would stay there! Let confine
 |     |  Category   |                          Ideas                           |
 |:---:|:-----------:|:--------------------------------------------------------:|
 | 1.  | STRUCTURAL  |                  Train, maze, ship etc.                  |
-| 2.  |   NATURAL   |               Water, desert, vash forest.                |
+| 2.  |   NATURAL   |               Water, desert, vast forest.                |
 | 3.  | DIMENSIONAL |                 Void, exit loops back in                 |
 | 4.  |    MORAL    |  You can't just leave before you did what you came for   |
 | 5.  |   NO HELP   | Nobody believes them and those who do cannot help at all |
@@ -42,18 +42,18 @@ the underlying mystery.
 
 **D6 MAIN OBJECT** _(Pick or roll once)_
 
-|     | Category | Ideas                                                           |
-|:---:|:-----------------:|:-------------------------------------------------------:|
-| 1.  | VALUABLE | Coins, jewlery, casket or similar, but somebody wants it back   |
-| 2.  | ARTEFACT | Figurine, plate, stone tablet etc. but there's more to it       |
-| 3.  | TOOL     | Dagger, talisman, device and the like. But who used it and why? |
-| 4.  | ART      | Drawing, sheet music, poem etc.. Deep within lies something     |
-| 5.  | HEIRLOOM | Doll, wristwatch, compass. It was handed for generations        |
-| 6.  | WRITTEN  | Book, journal, letter ... it may yield deeper knowledge         |
+|    | Category |                              Ideas                              |
+|:--:|:--------:|:---------------------------------------------------------------:|
+| 1. | VALUABLE | Coins, jewellery, casket or similar, but somebody wants it back |
+| 2. | ARTEFACT |    Figurine, plate, stone tablet etc. but there's more to it    |
+| 3. |   TOOL   | Dagger, talisman, device and the like. But who used it and why? |
+| 4. |   ART    |   Drawing, sheet music, poem etc.. Deep within lies something   |
+| 5. | HEIRLOOM |    Doll, wristwatch, compass. It was handed for generations     |
+| 6. | WRITTEN  |     Book, journal, letter ... it may yield deeper knowledge     |
 
 ## Horror
 
-Raise the stakes, make it about something big. Their lifes is a point to start at, but even better: everything should 
+Raise the stakes, make it about something big. Their lives is a point to start at, but even better: everything should 
 be at the stakes! Shatter the characters' world view. Crush their dreams. This works even better when you pick a 
 deity or creature beforehand and work it in.
 

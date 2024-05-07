@@ -26,14 +26,14 @@ towards regular HP. Each HEART will symbolize the character's distance to his/he
 
 **D6 REACTIONS TO HOPELESSNESS** _(Pick or roll once)_
 
-|     |     Category      |                                 Ideas                                  |
-|:---:|:-----------------:|:----------------------------------------------------------------------:|
-| 1.  |     ADDICTION     |                             _see violence_                             |
-| 2.  |    IMPAIRMENT     |              Phantom disability to fully use some senses               |
-| 3.  | SPLIT PERSONALITY |          Another identity is created, has memories and traits          |
-| 4.  |    OBSESSOION     |    Thoughts circle around person, idea,  object, location or event     |
-| 5.  |       MANIA       | Compulsion of useless act or thought, e.g. washing, tidiness, counting |
-| 6.  |      PHOBIA       |     Detail causes irrational fear with breathlessness, panic etc.      |
+|    |     Category      |                                 Ideas                                  |
+|:--:|:-----------------:|:----------------------------------------------------------------------:|
+| 1. |     ADDICTION     |                             _see violence_                             |
+| 2. |    IMPAIRMENT     |              Phantom disability to fully use some senses               |
+| 3. | SPLIT PERSONALITY |          Another identity is created, has memories and traits          |
+| 4. |     OBSESSION     |    Thoughts circle around person, idea,  object, location or event     |
+| 5. |       MANIA       | Compulsion of useless act or thought, e.g. washing, tidiness, counting |
+| 6. |      PHOBIA       |     Detail causes irrational fear with breathlessness, panic etc.      |
 
 **D8 REACTIONS TO THE UNNATURAL** _(Pick or roll once)_
 

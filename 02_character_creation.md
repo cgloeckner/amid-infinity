@@ -7,7 +7,7 @@ Creating a character in **Amid Infinity** follows the same rules as ICME does.
 3. Assign 6 STATS and 4 EFFORT
 4. Grab a STARTER LOOT and 4 COMMON LOOT
 
-**Amid Infinity** can be played in an setting, but works great for Lovecraft's era of the 1920s. If this does not fit 
+**Amid Infinity** can be played in a setting, but works great for Lovecraft's era of the 1920s. If this does not fit 
 your game, feel free to modify or even skip the changes ahead.
 
 The options below are kept free from mechanics by design. Make them fit your style or even go full narrative with them.
@@ -81,16 +81,16 @@ fit your character concept.
 
 **D8 COMMON LOOT** _(Pick or roll up to three times)___
 
-|     |    Category    |                        Ideas to build upon                        |
-|:---:|:--------------:|:-----------------------------------------------------------------:|
-| 1.  |     DRUGS      |     Cigaretts, alcohol, coffee in thermos, opium pipe or such     |
-| 2.  |    HEIRLOOM    |  Pocket watch, jewlery, pen, photography, instrument or the like  |
-| 3.  |      TOY       | Marbles, playing or tarot cards, teddy bear, music box or similar |
-| 4.  |  LIGHT SOURCE  |          Flashlight, matches, lantern or something else           |
-| 5.  | DOCUMENTATION  |          Notepad, folding camera, dictaphone or similar           |
-| 6.  |  ORIENTATION   |       Compass, maps, binocular, step counter or such things       |
-| 7.  | STURDY CLOTHES |   Jacket, overall, fedora or the like that grants some DEFENSE    |
-| 8.  | SURVIVAL TOOL  |                                                                   |
+|    |    Category    |                        Ideas to build upon                        |
+|:--:|:--------------:|:-----------------------------------------------------------------:|
+| 1. |     DRUGS      |    Cigarettes, alcohol, coffee in thermos, opium pipe or such     |
+| 2. |    HEIRLOOM    | Pocket watch, jewellery, pen, photography, instrument or the like |
+| 3. |      TOY       | Marbles, playing or tarot cards, teddy bear, music box or similar |
+| 4. |  LIGHT SOURCE  |          Flashlight, matches, lantern or something else           |
+| 5. | DOCUMENTATION  |          Notepad, folding camera, dictaphone or similar           |
+| 6. |  ORIENTATION   |       Compass, maps, binocular, step counter or such things       |
+| 7. | STURDY CLOTHES |   Jacket, overall, fedora or the like that grants some DEFENSE    |
+| 8. | SURVIVAL TOOL  |                                                                   |
 
 **Example mechanics:**
 
