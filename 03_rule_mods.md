@@ -48,16 +48,6 @@ towards regular HP. Each HEART will symbolize the character's distance to his/he
 | 7.  |      AMNESIA      |      protects by moving certain memories to the subconsciousness       |
 | 8.  |      HUBRIS       | Exaggerated self-confidence, feeling of being above moral or mortality |
 
-## Luck
-
-Everybody starts a session with a HERO COIN that symbolizes LUCK.
-
-- **Putting luck to the test**
-  - flip coin, announce head or tail
-  - coin remains at player
-- **No wasted luck**
-  - coins are only consumed if a failed attempt succeeds with it
-
 ## Mythos Spells
 
 Sinister rituals can be performed by those willed to plunge into the darkness.
