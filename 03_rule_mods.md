@@ -13,6 +13,19 @@ towards regular HP. Each HEART will symbolize the character's distance to his/he
   - each tag lowers MaxHP by 1
   - don't-die-on-me to stabilize broken down person
 
+***ALTERNATIVE (atm play-tested)***
+- **Motivation**: PCs start with three motivations (tied to the scenario, e.g. specified by GM or the GM ties them in)
+- **Sanity check**: Roll CHA or suffer damage against a SANITY HEART
+- **Dying**: as written, add narrative WOUND tag each time
+- **Breakdown**
+  - dropping to 0 SAN causes INSANITY tag (replaces motivation)
+  - no motivation left? PC becomes an NPCs
+- **MILESTONE**:
+  - Ever Stronger: Gain 1 STAT or EFFORT
+  - Motivation: Grow another motivation based on the latest events
+  - Medical: Remove 1 WOUND
+
+
 **D6 REACTIONS TO VIOLENCE** _(Pick or roll once)_
 
 |     |   Category   |                                 Ideas                                  |
