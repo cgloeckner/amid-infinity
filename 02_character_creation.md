@@ -32,10 +32,8 @@ detail from your past and yields a benefit.
 | 9.  |    COMMITMENT    |    You have dedicated yourself to job, sports, science, hobby or the like.    |
 | 10. |   MULTILINGUAL   | You were raised by multilingual parents or have spent quite some time abroad. |
 
-**Example mechanics:**
+*based on: https://fhtagn-rpg.de/regeln/charaktere/#hintergrund*
 
-- Characters with INSIGHT may roll EASY on rituals they performed earlier.
-- A HANDICAPPED character may receive additional +2 on DEX but cannot tell the difference between blue and green.
 
 ## Profession
 
@@ -53,10 +51,22 @@ a starting point that outlines rough ideas.
 | 5.  | SLEUTH        | Police officer, private eye, intelligence officer or the like        |
 | 6.  | MEDICINE      | Doctor, therapist, nurse, pharmacist, veterinary or similar          |
 
-**Example mechanics:**
+## Motivations
 
-- Distract guards may be EASY for a THEATER ACTOR.
-- Sneaking on a suspect may be EASY for a PRIVATE EYE.
+These are hints for role playing and will be influenced by character progression.
+
+**D5 MOTIVATION** _(Pick or roll once_)
+
+|     | Category | Example professions                                                                                                     |
+|:---:|----------|-------------------------------------------------------------------------------------------------------------------------|
+| 1.  | CONTROL  | 1: focused, 2: easy to distract, 3: methodical, 4: impulsive, 5: convinced of own opinion, 6: allows other opinions     |
+| 2.  | DRIVE    | 1: fear, 2: greed, 3: self-delusion, 4: desire, 5: pride, 6: revenge or anger                                           |
+| 3.  | MORAL    | 1: honesty, 2: helpful, 3: fair, 4: tolerant, 5: reliable, 6: has confidence                                            |
+| 4.  | NEEDS    | 1: content with little, 2: sleep/eating, 3: security, 4: family or friends, 5: success and prestige, 6: meaning of life | 
+| 5.  | MINDSET  | 1: lives own values, 2: please everyone, 3: see the good, 4: see the bad, 5: focused on future, 6: lives in past        |
+
+*based on: https://fhtagn-rpg.de/regeln/charaktere/#motivationen*
+
 
 ## Starter Loot
 
@@ -72,39 +82,22 @@ fit your character concept.
 | 3.  |  WEAPON   | Knife, brass knuckles, baton or something improvised?        |
 | 4.  |    GUN    | Revolver, rifle or the like... but why?                      |
 
-**Example mechanics:**
-
-- FIRST AID heals TOOL effort after a successful INT/WIS roll.
-- A REVOLVER has 6 bullets. Reloading introduces a SPELL BURN timer.
-
 ## Common Loot
 
 **D8 COMMON LOOT** _(Pick or roll up to three times)___
 
-|    |    Category    |                        Ideas to build upon                        |
-|:--:|:--------------:|:-----------------------------------------------------------------:|
-| 1. |     DRUGS      |    Cigarettes, alcohol, coffee in thermos, opium pipe or such     |
-| 2. |    HEIRLOOM    | Pocket watch, jewellery, pen, photography, instrument or the like |
-| 3. |      TOY       | Marbles, playing or tarot cards, teddy bear, music box or similar |
-| 4. |  LIGHT SOURCE  |          Flashlight, matches, lantern or something else           |
-| 5. | DOCUMENTATION  |          Notepad, folding camera, dictaphone or similar           |
-| 6. |  ORIENTATION   |       Compass, maps, binocular, step counter or such things       |
-| 7. | STURDY CLOTHES |   Jacket, overall, fedora or the like that grants some DEFENSE    |
-| 8. | SURVIVAL TOOL  |                                                                   |
-
-**Example mechanics:**
-
-- DRUGS may allow for EASY RECOVERY rolls.
-- LIGHT SOURCES may lower the TARGET in dark areas.
+|    |    Category    |                          Ideas to build upon                          |
+|:--:|:--------------:|:---------------------------------------------------------------------:|
+| 1. |     DRUGS      |      Cigarettes, alcohol, coffee in thermos, opium pipe or such       |
+| 2. |    HEIRLOOM    |   Pocket watch, jewellery, pen, photography, instrument or the like   |
+| 3. |      TOY       |   Marbles, playing or tarot cards, teddy bear, music box or similar   |
+| 4. |  LIGHT SOURCE  |            Flashlight, matches, lantern or something else             |
+| 5. | DOCUMENTATION  |            Notepad, folding camera, dictaphone or similar             |
+| 6. |  ORIENTATION   |         Compass, maps, binocular, step counter or such things         |
+| 7. | STURDY CLOTHES |     Jacket, overall, fedora or the like that grants some DEFENSE      |
+| 8. | SURVIVAL TOOL  | Utility knife, whistle, rope, cord, fishing rod, signal flare or such |
 
 ## Backpack
-
-|     |  Category  | Example LOOT  |
-|:---:|:----------:|:-------------:|
-| 1.  | FIRST AID  |               |
-| 2.  |    TOOL    |               |
-| 3.  |   WEAPON   |               |
-| 4.  |    GUN     |               |
 
 You carry quite a lot more than you have written in your inventory. Use your TURN to invent an ITEM. Write it down as 
 a piece of LOOT for future use.
@@ -114,4 +107,4 @@ a piece of LOOT for future use.
 Up to the GM's discretion, characters will gain MILESTONES, such as:
 
 - Gain a STAT or EFFORT point
-- Cure a WOUND or INSANITY (see Rule Modifications on [Sanity](03_rule_mods.md#Sanity))
+- Cure a WOUND or INSANITY (see Rule Modifications on [Sanity](03_rule_mods.md#Sanity), WIP)
