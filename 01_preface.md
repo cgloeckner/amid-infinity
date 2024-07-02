@@ -10,4 +10,6 @@ It is fully compatible with ICME and its [Free Quickstart](https://icrpgcommunit
 ## Design Goal
 
 The design of **Amid Infinity** is meant to be modular and minimalistic in terms of rule changes to ICPRG. The goal is 
-to make **Amid Infinity** compatible with your favorite ICRPG-houserules like player-facing rolls and things like that.
+to make **Amid Infinity** compatible with your favorite ICRPG house rules.
+
+Some aspects are taken from (Source: *The Cthulhack: Cosmic Horror for ICRPG* by Christian Bynum (CC BY-SA 4.0).

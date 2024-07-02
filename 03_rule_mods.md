@@ -2,71 +2,50 @@
 
 ## Sanity
 
-Mind-shattering circumstances will test a character's mental stability. Physical and mental damage will both count 
-towards regular HP. Each HEART will symbolize the character's distance to his/her personal breaking point.
+- Characters will start with a HEART of sanity, symbolizing the individual distance to their breaking point.
+- Mind-shattering circumstances will test a character's mental stability.
+- A CHA roll is made to shrug or at least minimize of the effects.
 
-- **Sanity check**
-  - Roll INT/WIS/CHA based on circumstances
-  - Sanity damage counts against the HEART
-- **Breakdown**
-  - dropping to 0 HP causes WOUND or INSANITY tag
-  - each tag lowers MaxHP by 1
-  - don't-die-on-me to stabilize broken down person
+## Sanity Loss
 
-***ALTERNATIVE (atm play-tested)***
-- **Motivation**: PCs start with three motivations (tied to the scenario, e.g. specified by GM or the GM ties them in)
-- **Sanity check**: Roll CHA or suffer damage against a SANITY HEART
-- **Dying**: as written, add narrative WOUND tag each time
-- **Breakdown**
-  - dropping to 0 SAN causes INSANITY tag (replaces motivation)
-  - no motivation left? PC becomes an NPCs
-- **MILESTONE**:
-  - Ever Stronger: Gain 1 STAT or EFFORT
-  - Motivation: Grow another motivation based on the latest events
-  - Medical: Remove 1 WOUND
+- Sanity damage comes in varieties such as a single point of damage or even rolling dice.
+- Witessing minor yet unexplainable effects may only cause 1 or 1d4 damage, facing clearly supernatural or otherworldly phenomenons or creatures will take a more terrible toll or higher damage.
+- Playing out sanity loss is supposed to left up to the individual player's discretion, taste and personal preference.
 
+## Breakdown
 
-**D6 REACTIONS TO VIOLENCE** _(Pick or roll once)_
+- Reaching 0 sanity causes the character to break down. Use ICME's DYING mechanics here while the characters behaves bonkers.
+- Other characters may attempt a don't-die-on-me using CHA to calm their buddy down.
+- If successful, the character returns to 1 SAN and stays very close to his/her next break down.
+- Else, apply INSANITY.
+- BREAKDOWN TAGS are meant as short-term conditions, unless the character succumbs to it.
 
-|     |   Category   |                                 Ideas                                  |
-|:---:|:------------:|:----------------------------------------------------------------------:|
-| 1.  |  ADDICTION   |   Habit or substance yields relief, turns into urge for satisfaction   |
-| 2.  |   APATHIE    |     Things seem pointless, you barely care about things around you     |
-| 3.  |     RAGE     | Barely controllable anger and fury steer actions despite friend or foe |
-| 4.  |   PARANOIA   |                         Mistrust and hostility                         |
-| 5.  |  FLASHBACKS  |      Memory fragments of this event will drag you out of reality       |
-| 6.  | RESTLESSNESS |                        Wiggling, shivering, ...                        |
+**Breakdown examples** _(Pick or roll once)_
 
-**D6 REACTIONS TO HOPELESSNESS** _(Pick or roll once)_
+| 1d6 | Tag         |Description                                 |
+|:---:|:-----------:|:------------------------------------------:|
+| 1-2 | **Fear**    | flee or hide from the cause                |
+| 3-4 | **Rage**    | violent 'til death, against friend or foe  |
+| 5-6 | **Give up** | unconscious, catatonic, paralyzed or such  |
 
-|    |     Category      |                                 Ideas                                  |
-|:--:|:-----------------:|:----------------------------------------------------------------------:|
-| 1. |     ADDICTION     |                             _see violence_                             |
-| 2. |    IMPAIRMENT     |              Phantom disability to fully use some senses               |
-| 3. | SPLIT PERSONALITY |          Another identity is created, has memories and traits          |
-| 4. |     OBSESSION     |    Thoughts circle around person, idea,  object, location or event     |
-| 5. |       MANIA       | Compulsion of useless act or thought, e.g. washing, tidiness, counting |
-| 6. |      PHOBIA       |     Detail causes irrational fear with breathlessness, panic etc.      |
+## Insanity
 
-**D8 REACTIONS TO THE UNNATURAL** _(Pick or roll once)_
+- Up to table, insane PCs either become NPCs instantly or receive an INSANITY TAG.
+- It manifests insane behavior as a permanent condition but allows for continuation of play.
+- Such PCs return to 1 SAN and stay on their edge.
+- INSANITY TAGs are meant as long-term conditions and need to be worked out a bit to fit.
 
-|     |     Category      |                                 Ideas                                  |
-|:---:|:-----------------:|:----------------------------------------------------------------------:|
-| 1.  |     ADDICTION     |                             _see violence_                             |
-| 2.  |      APATHIE      |                             _see violence_                             |
-| 3.  |    FLASHBACKS     |                             _see violence_                             |
-| 4.  | SPLIT PERSONALITY |                           _see hopelessness_                           |
-| 5.  |       MANIA       |                           _see hopelessness_                           |
-| 6.  |      PHOBIA       |                           _see hopelessness_                           |
-| 7.  |      AMNESIA      |      protects by moving certain memories to the subconsciousness       |
-| 8.  |      HUBRIS       | Exaggerated self-confidence, feeling of being above moral or mortality |
+**Insanity examples** _(Pick or roll once)_
+
+| 1d6 | Tag                       | Description                                               |
+|:---:|:-------------------------:|:---------------------------------------------------------:|
+| 1.  | **Addiction**             | soothe your stress with a habit por substance             |
+| 2.  | **Mania**                 | urge to repeat some useless or misplaced behavior         |
+| 3.  | **Paranoia**              | one aspect of your worldview was broken and twisted       |
+| 4.  | **Obsession**             | fixation on a specific person, idea, location or object   |
+| 5.  | **Multiple Personality**  | another personality with its own experiences and manners  |
+| 6.  | **Phobia**                | a minor detail in that scene runs you through the roof    |
 
 ## Mythos Spells
 
-Sinister rituals can be performed by those willed to plunge into the darkness.
-
-- **Insight**
-  - Roll INT to cast
-  - add +1 per INSANITY tag
-- **Failure**
-  - suffer sanity damage
+Cast a Mythos Spell with INT. Add +1 for each INSANITY TAG.

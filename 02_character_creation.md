@@ -7,40 +7,13 @@ Creating a character in **Amid Infinity** follows the same rules as ICME does.
 3. Assign 6 STATS and 4 EFFORT
 4. Grab a STARTER LOOT and 4 COMMON LOOT
 
-**Amid Infinity** can be played in a setting, but works great for Lovecraft's era of the 1920s. If this does not fit 
-your game, feel free to modify or even skip the changes ahead.
+**Amid Infinity** can be played in a setting, but works great for Lovecraft's era of the 1920s. Hence loot and other things are kept era-neutral. If things do not fit your game, feel free to modify or even skip the changes ahead.
 
-The options below are kept free from mechanics by design. Make them fit your style or even go full narrative with them.
+# Profession and Skills
 
-## Experience
+All characters are HUMAN and no heroes. Instead of picking a LIFEFORM and TYPE, each character is built from a PROFESSION and a set of SKILLS. Trained Skills are EASY, expert skills are ALWAYS EASY (i.e. ignoring HARD).
 
-All characters are HUMAN and no heroes. Instead, replace your LIFE FORM with EXPERIENCE. An EXPERIENCE describes a 
-detail from your past and yields a benefit.
-
-**D10 EXPERIENCES** _(Pick or roll once)_
-
-|     |       Tag        |                                  Description                                  |
-|:---:|:----------------:|:-----------------------------------------------------------------------------:|
-| 1.  |       RICH       |                         Money is not an issue at all.                         |
-| 2.  |     INSIGHT      |                 You have seen things nobody is meant to see.                  |
-| 3.  |     VIOLENCE     |                          Violence has hardened you.                           |
-| 4.  |     FAITHFUL     |                 Your faith in the good helps you to continue.                 |
-| 5.  |       LUCK       |                             Luck is on your side!                             |
-| 6.  |     HANDICAP     |         A permanent issue disables you but makes you better somehow.          |
-| 7.  | ALL HOPE IS GONE |                    Isolation and despair has hardened you.                    |
-| 8.  |       LOSS       |                 The loss of beloved people made you stronger.                 |
-| 9.  |    COMMITMENT    |    You have dedicated yourself to job, sports, science, hobby or the like.    |
-| 10. |   MULTILINGUAL   | You were raised by multilingual parents or have spent quite some time abroad. |
-
-*based on: https://fhtagn-rpg.de/regeln/charaktere/#hintergrund*
-
-
-## Profession
-
-Instead of picking a TYPE, a PROFESSION roughly describes fields of expertise in which you excell. The table below is 
-a starting point that outlines rough ideas.
-
-**D6 PROFESSIONS** _(Pick or roll once)_
+**PROFESSIONS** _(Pick or roll once)_
 
 |     | Category      | Example professions                                                  |
 |:---:|---------------|----------------------------------------------------------------------|
@@ -51,29 +24,44 @@ a starting point that outlines rough ideas.
 | 5.  | SLEUTH        | Police officer, private eye, intelligence officer or the like        |
 | 6.  | MEDICINE      | Doctor, therapist, nurse, pharmacist, veterinary or similar          |
 
-## Motivations
+**SKILLS** _(Choose six trained and one expert)_
 
-These are hints for role playing and will be influenced by character progression.
+1. Accounting
+2. Anthropology & Anthropology
+3. Art/Craft (Specify)
+4. Disguise
+5. Drive Automobile
+6. Education
+7. Electrical Repair
+8. First Aid
+9. Heavy Machinery Operation
+10. History
+11. Journalism
+12. Language (Native)
+13. Language (Foreign (Specify))
+14. Law
+15. Library Use
+16. Locksmithing
+17. Mechanical Repair
+18. Medicine
+19. Nature Studies
+20. Occult Studies
+21. Orienteering & Navigation
+22. Performance (Specify)
+23. Philosophy
+24. Photography
+25. Pilot Aircraft/Boat (Specify)
+26. Public Speaking
+27. Religion
+28. Ride Animal/Motorcycle (Specify)
+29. Science (Specify)
+30. Survival & Tracking
 
-**D5 MOTIVATION** _(Pick or roll once_)
+# Loot
 
-|     | Category | Example professions                                                                                                     |
-|:---:|----------|-------------------------------------------------------------------------------------------------------------------------|
-| 1.  | CONTROL  | 1: focused, 2: easy to distract, 3: methodical, 4: impulsive, 5: convinced of own opinion, 6: allows other opinions     |
-| 2.  | DRIVE    | 1: fear, 2: greed, 3: self-delusion, 4: desire, 5: pride, 6: revenge or anger                                           |
-| 3.  | MORAL    | 1: honesty, 2: helpful, 3: fair, 4: tolerant, 5: reliable, 6: has confidence                                            |
-| 4.  | NEEDS    | 1: content with little, 2: sleep/eating, 3: security, 4: family or friends, 5: success and prestige, 6: meaning of life | 
-| 5.  | MINDSET  | 1: lives own values, 2: please everyone, 3: see the good, 4: see the bad, 5: focused on future, 6: lives in past        |
+STARTER LOOT comes in categories and allow you build upon those ideas to fit your character concept. Work with your GM to find suitable mechanics or keep their use narrative.
 
-*based on: https://fhtagn-rpg.de/regeln/charaktere/#motivationen*
-
-
-## Starter Loot
-
-Since the variety of characters is too vast, STARTER LOOT comes in categories and allow you build upon those ideas to 
-fit your character concept.
-
-**D4 STARTER LOOT** _(Pick or roll once)_
+**STARTER LOOT** _(Pick or roll once)_
 
 |     | Category  | Example LOOT                                                 |
 |:---:|:---------:|--------------------------------------------------------------|
@@ -82,9 +70,7 @@ fit your character concept.
 | 3.  |  WEAPON   | Knife, brass knuckles, baton or something improvised?        |
 | 4.  |    GUN    | Revolver, rifle or the like... but why?                      |
 
-## Common Loot
-
-**D8 COMMON LOOT** _(Pick or roll up to three times)___
+**COMMON LOOT** _(Pick or roll up to four times)___
 
 |    |    Category    |                          Ideas to build upon                          |
 |:--:|:--------------:|:---------------------------------------------------------------------:|
@@ -99,12 +85,22 @@ fit your character concept.
 
 ## Backpack
 
-You carry quite a lot more than you have written in your inventory. Use your TURN to invent an ITEM. Write it down as 
-a piece of LOOT for future use.
+You carry quite a lot more than you have written in your inventory.
 
-## Milestone Options
+Use your TURN to invent an ITEM.
 
-Up to the GM's discretion, characters will gain MILESTONES, such as:
+Write it down as a piece of LOOT for future use.
 
-- Gain a STAT or EFFORT point
-- Cure a WOUND or INSANITY (see Rule Modifications on [Sanity](03_rule_mods.md#Sanity), WIP)
+# Progression
+
+## Milestones
+
+Up to the GM's discretion, characters may gain MILESTONES, such as:
+
+- **Ever Stronger:** Gain a STAT or EFFORT point
+- **Expertise:** Gain another trained skill
+- **Motivation:** Gain another motivation (see [Sanity](03_rule_mods.md#Sanity))
+
+## Mastery
+
+Each 5 mastery points, a player can choose to upgrade on of the character's trained skills to expert level.
