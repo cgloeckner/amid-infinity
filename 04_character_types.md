@@ -33,7 +33,7 @@
 25. Pilot Aircraft/Boat (Specify)
 26. Public Speaking
 27. Religion
-28. Ride Animal/Motorcycle (Specify)
+28. Ride (Specify)
 29. Science (Specify)
 30. Survival & Tracking
 
@@ -55,4 +55,4 @@
 
 ### Mastery
 
-Each 5 mastery points, a player can choose to upgrade on of the character's trained skills to expert level.
+Each 5 mastery points, a player can choose to upgrade one of the character's trained skills to expert level.
