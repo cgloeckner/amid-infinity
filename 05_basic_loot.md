@@ -15,10 +15,4 @@ Just like STARTING LOOT, your BASIC LOOT options come in categories and allow yo
 | 7. | STURDY CLOTHES |     Jacket, overall, fedora or the like that grants some DEFENSE      |
 | 8. | SURVIVAL TOOL  | Utility knife, whistle, rope, cord, fishing rod, signal flare or such |
 
-## Backpack
-
-You carry quite a lot more than you have written in your inventory.
-
-Use your TURN to invent an ITEM.
-
-Write it down as a piece of LOOT for future use.
+> BACKPACK: Use your TURN to invent an ITEM for future use

@@ -1,8 +1,5 @@
 # Sanity
 
-Playing out dreads is supposed to left up to the individual player's discretion, taste and personal preference. Push your players out of their comfort zone but don't push them beyond what's fun.
-
-
 ## Sanity Damage
 
 As ICME purposes:
@@ -13,24 +10,26 @@ As ICME purposes:
 
 Sanity damage can be rolled using an EFFORT CATEGORY. 
 
-| CATEGORY  | Description               | Example |
-|:---------:|:-------------------------:|---------|
-| 1         | minor                     | *mostly used for diminished SANIY damage* |
-| BASIC     | basic dread               | realize that it's not a dream after all |
-| WEAPON    | violence                  | witness a friend drop dying |
-| GUN       | superior violence         | the woman's eyes burst blood red |
-| MAGIC     | supernatural              | realize the shadowy figure has claws |
-| ULTIMATE  | superior cosmic horrors   | witness Yog-Sothoth's arrival |
+| CATEGORY  | Description           | Example |
+|:---------:|:---------------------:|---------|
+| 1         | minor                 | mostly for diminished SANITY damage |
+| BASIC     | basic dread           | realize that it's not a dream after all |
+| WEAPON    | violence              | witness a friend drop dying |
+| GUN       | superior violence     | the woman's eyes burst blood red |
+| MAGIC     | supernatural          | realize the shadowy figure has claws |
+| ULTIMATE  | cosmic horrors        | witness Yog-Sothoth's arrival |
 
-Allow to CHECK for SANITY using CHA. On success, lower the EFFORT CATEGORY rolled by the GM.
-- Lower by 1 category on a success
-- Lower by 2 categories if the success was AS IF HARD
-- Lower by 3 categories on a nat20
+Allow to CHECK for SANITY using CHA. On success, lower the EFFORT category rolled by the GM according circumstances and quality of the roll (i.e. nat20).
+
+Succeeding a SANITY CHECK against a supernatural thread as if it was HARD may lower the damage to only BASIC EFFORT.
+
+NO RECOVERY: SANITY may be rega ined
+from a MILESTONE relief but not in the MOMENT
 
 
 ## Breaking Point
 
-SANITY symbolizes the individual distance to a character's breaking point. Reaching 0 SANITY causes the character to break down. The character behaves bonkers for a few ROUNDS as if DYING (se ICME p. 16).
+SANITY symbolizes the individual distance to a character's breaking point. Reaching 0 SANITY causes the character to break down. The character behaves bonkers for a few ROUNDS as if DYING (see ICME p. 16).
 
 **Breakdown examples**
 
@@ -64,3 +63,5 @@ If not calmed in time, the character succumbs to the breakdown. If the table is 
 | 4.  | **Obsession**             | fixation on a specific person, idea, location or object   |
 | 5.  | **Multiple Personality**  | another personality with its own experiences and manners  |
 | 6.  | **Phobia**                | a minor detail in that scene runs you through the roof    |
+
+PLAYER AGENCY: Push your players out of their comfort zone but not beyond what's fun

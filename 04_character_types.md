@@ -1,17 +1,13 @@
 # Character Types in Amid Infinity
 
-## REGULAR MAN/WOMEN >> A pretty mundane nobody, not a hero
+## MUNDANEM >> A regular man/woman, not a hero
 
 ### STARTING ABILITY (Choose  **6 trained** and **1 expert**)
-
-Most man and woman draw SKILLS from their PROFESSION or other aspects of their live.
-
-> Trained Skills are EASY, expert skills are ALWAYS EASY (i.e. ignoring HARD).
 
 **SKILLS**
 
 1. Accounting
-2. Anthropology & Anthropology
+2. Anthropology
 3. Art/Craft (Specify)
 4. Disguise
 5. Drive Automobile
@@ -41,11 +37,9 @@ Most man and woman draw SKILLS from their PROFESSION or other aspects of their l
 29. Science (Specify)
 30. Survival & Tracking
 
+> Trained Skills are EASY, Experts roll ALWAYS EASY (i.e. ignore HARD)
+
 ### Starting Loot (Choose 1)
-
-Based on the kind of human, your STARTING LOOT can be anything. Pick or roll a category and build upon it. As always, invent mechanics with your GM.
-
-**STARTING LOOT**
 
 |     | Category  | Example LOOT                                                 |
 |:---:|:---------:|--------------------------------------------------------------|
