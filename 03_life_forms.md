@@ -2,7 +2,9 @@
 
 ## HUMAN >> +2 Stat/Effort points
 
-The humble origin of today's technology is located in the cradle of humanity. There are people as you and I, versatile but also complex. Some people are a gain to humanity, others are a puzzle piece of its decay. Unknowing of larger forces and entities, humanity lives its life in a sphere of illusion.
+The humble origin of today's technology is located in the cradle of humanity.
+
+Versatile but also complex, there are people as you and I. Some people are a gain to humanity, others are a puzzle piece of its decay. But humanity lives its life in a sphere of illusion, unknowing of larger forces and entities
 
 > The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. 
 

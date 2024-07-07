@@ -26,6 +26,11 @@ Succeeding a SANITY CHECK against a supernatural thread as if it was HARD may lo
 NO RECOVERY: SANITY may be rega ined
 from a MILESTONE relief but not in the MOMENT
 
+> Return to 1 SANITY but gain an INSANITY TAG
+
+Loosing larger amounts of SANITY is always dangers.
+
+Push your players out of their comfort zone but not beyond what's fun.
 
 ## Breaking Point
 
@@ -51,17 +56,18 @@ Once calmed, the character returns to 1 SANITY, regains cognitive but stays very
 
 ## Insanity TAGs
 
-If not calmed in time, the character succumbs to the breakdown. If the table is fine with playing bonkers PCs, the character returns to 1 SANITY but gains an INSANITY TAG as a long-term condition. The table below gives some inspiration that need to be worked out in the moment to make fit.
+If not calmed in time, the character succumbs to the breakdown permanently. That character either becomes an NPC or suffers INSANITY.
+
+> Gain an INSANITY TAG immediately when losing 5 or more SANITY
+
 
 **Insanity examples** _(Pick or roll once)_
 
 | 1d6 | Tag                       | Description                                               |
 |:---:|:-------------------------:|:---------------------------------------------------------:|
-| 1.  | **Addiction**             | soothe your stress with a habit por substance             |
-| 2.  | **Mania**                 | urge to repeat some useless or misplaced behavior         |
-| 3.  | **Paranoia**              | one aspect of your worldview was broken and twisted       |
-| 4.  | **Obsession**             | fixation on a specific person, idea, location or object   |
-| 5.  | **Multiple Personality**  | another personality with its own experiences and manners  |
+| 1.  | **Addiction**             | Soothe your stress with a habit or substance              |
+| 2.  | **Mania**                 | Am urge to repeat some useless or misplaced behavior      |
+| 3.  | **Paranoia**              | One aspect of your worldview gets broken and twisted      |
+| 4.  | **Obsession**             | A fixation on a specific person, idea, location or object |
+| 5.  | **Split Personality**     | another personality merges with its own experiences and manners  |
 | 6.  | **Phobia**                | a minor detail in that scene runs you through the roof    |
-
-PLAYER AGENCY: Push your players out of their comfort zone but not beyond what's fun
