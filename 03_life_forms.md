@@ -1,6 +1,6 @@
 # Life Forms
 
-## HUMAN
+## Human
 
 The humble origin of today's technology is located in the cradle of humanity.
 
@@ -11,9 +11,10 @@ Versatile but also complex, there are people as you and I. Some people are a gai
 from [*The Call of Cthulhu*](https://www.hplovecraft.com/writings/texts/fiction/cc.aspx) (by H. P. Lovecraft, 1926)
 
 
-### Life Experience (Choose 1)
+## Experience (Choose 1)
 
 *d4*
+
 - **ASPIRING**: You have lots of potential. Add two points to STATS.
 - **FLOURISHING**: You have received wealth and stability. Gain an additional STARTER LOOT.
 - **SEASONED**: You've gathered lots of experience. Gain an additional EXPERT SKILL.

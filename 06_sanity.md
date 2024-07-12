@@ -39,6 +39,7 @@ SANITY symbolizes the individual distance to a character's breaking point. Reach
 **Breakdown examples**
 
 *d3*
+
 - **FEAR**: Flee or hide from the cause. Now!
 - **RAGE**: Violent 'til death, be it friend or foe.
 - **GIVE UP**: You turn unconscious, catatonic, paralyzed or such.

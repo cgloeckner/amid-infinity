@@ -9,9 +9,10 @@ You carry way more than just a few things. Based on your PROFESSION or another a
 Usually such items are purely narrative things and have no mechanical function.
 
 
-### BASIC LOOT (Choose any 4)
+## Basic Loot (Choose any 4)
 
 *d10*
+
 - **MILD DRUGS**: Pack of cigarettes, hip flask, an aged pip or such. CONSUME for a free RECOVERY. 3 Uses
 - **LIGHT SOURCE**: Flashlight, lighter, matches or similar. Use 1 TURN to lower the TARGET by 1 for some ROUNDS.
 - **ROBUST CLOTHES**: A padded jacket, sturdy overall or a such thing. Gain +1 DEFENSE.

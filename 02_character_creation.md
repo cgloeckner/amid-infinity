@@ -1,6 +1,7 @@
 # Character Creation
 
 Follow the Steps from **ICME**
+
 1. **Who and what are you**: Pick an *Experience* as LIFE FORM, a *Profession* as your TYPE - and don't forget your one-line STORY.
 2. **Core Stats**: See ICME p. 25
 3. **Boost Effort Types**: See ICME p. 26

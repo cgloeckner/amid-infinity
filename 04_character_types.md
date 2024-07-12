@@ -1,10 +1,9 @@
 # Character Types
 
-## REGULAR MAN/WOMAN >> Pretty mundane, not a hero
-
-### PROFESSION (Choose 1 as your TYPE tag)
+## Profession (Choose 1 as your TYPE tag)
 
 *d6*
+
 - **ACADEMIC**: You are a tutor, student, scientist, librarian, assistent or something like that.
 - **ARTIST**: The art of being an author, musician, painter, actor, photographer, magician or similar makes you special.
 - **PUBLIC FIGURE**: Are you prominent? A journalist? Priest? Lawyer? Salesman? People know you!
@@ -13,9 +12,10 @@
 - **MEDICINE**: Be it a doctor, therapist, nurse, pharmacist, veterinary or comparable.
 
 
-### STARTING SKILLS (Choose **6 TRAINED** and **1 EXPERT**)
+## Starting Skills (Choose **6 TRAINED** and **1 EXPERT**)
 
 *d66*
+
 - Accounting
 - Anthropology
 - Animal Handling
@@ -56,21 +56,22 @@
 > TRAINED Skills are EASY, EXPERT rolls are ALWAYS EASY (i.e. ignore HARD).
 
 
-## STARTING LOOT (Choose 1)
+## Starting Loot (Choose 1)
 
 *d4*
+
 - **FIRST AID**: Be it bandages, stitching materials, antibiotics, antiseptics or similar. See HEALER'S CASE (ICME p. 44) 
 - **TOOL**: Lock picks, crowbar, fake ID, handcuffs or anything else. Gain +3 on CHECKS associated.
 - **WEAPON**: Knife, brass knuckles, baton or something improvised? These are clearly WEAPONS!
 - **GUN**: Revolver, rifle or the like... but why? Work with your GM for custom GUN mechanics (e.g. ICME p. 237 and 239).
 
 
-### Milestone Abilities (Choose 1 when awarded by GM)
+## Milestones (Choose 1 when awarded by GM)
 
 - **EVER STRONGER:** Add 1 to any STAT.
 - **EXPERTISE:** Gain another trained SKILL.
 
 
-### Mastery
+## Mastery
 
 Each 5 mastery points, a player can choose to upgrade one of the character's TRAINED skills to EXPERT level.
